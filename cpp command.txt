@@ -1,0 +1,5 @@
+g++ -ggdb your_file_here.cpp -o a `pkg-config --cflags --libs opencv`
+
+a is the name for the executable which you simply run after compilation with
+
+./a
