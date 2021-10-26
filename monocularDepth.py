@@ -1,3 +1,8 @@
+# https://github.com/isl-org/MiDaS/releases/tag/v2_1
+# https://github.com/niconielsen32/ComputerVision/blob/master/monocularDepthAI/monocularDepth.py
+
+
+
 import numpy as np
 import cv2
 import time
